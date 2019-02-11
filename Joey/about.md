@@ -1,2 +1,2 @@
-## Hello Peeps :Wave:
+## Hello Peeps :wave:
 ### I am Joey :blush:
