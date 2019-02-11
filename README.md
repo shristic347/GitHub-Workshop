@@ -25,6 +25,24 @@
   
 - Pull request
   - Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. Like issues, pull requests each have their own discussion forum. For more information, see "[About pull requests](https://help.github.com/articles/about-pull-requests/)."
+  
+  ## Learning objectives
+
+- Understand Git - A version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people.
+  - What is Git? [Git](https://git-scm.com/)
+  - Installation
+  - Git Basics [Git Basics](https://github.com/ABES-Technovation/Git-and-GitHub-Workshop/tree/master/module-1)
+- Understand GitHub and how it can be used to collaborate on projects with a team.
+  - What is GitHub? [The world’s largest community of developers to discover, share, and build better softwares](https://github.com/)
+  - What is a repository?
+  - How to use issues?
+  - How to Markdown? [Mastering Markdown - GitHub Guides](https://guides.github.com/features/mastering-markdown/)
+  - How to handle notfications? (settings -> notifications)
+  - What is the GitHub Flow? [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+  - How to propose and collaborate on changes?
+  - What are some other resources?
+-  Use GitHub pages to turn your GitHub repositories into elegant websites to showcase your portfolio, projects, documentation and anything else that you want to share with the world. [GitHub Pages](https://pages.github.com/)
+
     
 ## Resources
 
